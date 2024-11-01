@@ -96,7 +96,8 @@ package com.ps;
                     ", color='" + color + '\'' +
                     ", odometer=" + odometer +
                     ", price=" + price +
-                    '}';
+               '}';
         }
     }
 }
+
