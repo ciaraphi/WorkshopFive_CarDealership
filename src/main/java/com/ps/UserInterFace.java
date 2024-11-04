@@ -20,10 +20,10 @@ public class UserInterFace {
             int mainMenuCommand;
             do {
                 System.out.println("what would you like to do");
-                System.out.println("1) Add Animal");
-                System.out.println("2) Remove Animal");
-                System.out.println("3) Show Animals");
-                System.out.println("4) Filter All Animals By Age Range");
+                System.out.println("1) Enter name");
+                System.out.println("2) Enter email");
+                System.out.println("3) vehicle sold");
+                System.out.println("4) vehicle price");
                 System.out.println("Command: ");
 
                 switch (mainMenuCommand) {
